@@ -23,7 +23,7 @@
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
     "enableMeleeDamage": true,
-    "damageVsEntity": 0.0,
+    "damageVsEntity": 16.1,
     "specialInfo": [
       "AMONG US"
     ],
@@ -31,6 +31,9 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "SussyLivingEntityIsHitWithItem"
+    },
     "hasDispenseBehavior": false
   }
 }

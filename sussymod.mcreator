@@ -87,6 +87,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sussy_advancement"
+    },
+    {
+      "name": "SussyLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],

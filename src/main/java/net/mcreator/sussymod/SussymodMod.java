@@ -23,6 +23,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.BlockItem;
 import net.minecraft.block.Block;
 
+import net.mcreator.sussymod.procedures.SussyLivingEntityIsHitWithItemProcedure;
 import net.mcreator.sussymod.item.SussyTabItemGroup;
 import net.mcreator.sussymod.item.SussyItem;
 import net.mcreator.sussymod.item.SussyArmorArmorMaterial;
@@ -53,6 +54,7 @@ public class SussymodMod implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("Initializing SussymodMod");
 		SussyOreBlock.Generation.init();
+		new SussyLivingEntityIsHitWithItemProcedure();
 		Registry.register(Registry.SOUND_EVENT, SussymodMod.sussysound_ID, SussymodMod.sussysoundEvent);
 		CommandRegistrationCallback.EVENT.register((dispatcher, dedicated) -> {
 		});
