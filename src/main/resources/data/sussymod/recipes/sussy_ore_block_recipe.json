@@ -1,0 +1,42 @@
+{
+  "group": "sussymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sussymod:sussy"
+    },
+    "1": {
+      "item": "sussymod:sussy"
+    },
+    "2": {
+      "item": "sussymod:sussy"
+    },
+    "3": {
+      "item": "sussymod:sussy"
+    },
+    "4": {
+      "item": "sussymod:sussy"
+    },
+    "5": {
+      "item": "sussymod:sussy"
+    },
+    "6": {
+      "item": "sussymod:sussy"
+    },
+    "7": {
+      "item": "sussymod:sussy"
+    },
+    "8": {
+      "item": "sussymod:sussy"
+    }
+  },
+  "result": {
+    "item": "sussymod:sussy_block",
+    "count": 1
+  }
+}

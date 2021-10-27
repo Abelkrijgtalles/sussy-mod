@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 26.7,
+    "cookingTime": 1,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:SussyOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Sussy"
+    },
+    "name": "sussy_ore_smelting",
+    "namespace": "mod"
+  }
+}

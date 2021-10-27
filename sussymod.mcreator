@@ -1,0 +1,150 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Sussy",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy"
+    },
+    {
+      "name": "SussyOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_ore"
+    },
+    {
+      "name": "SussyBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_block"
+    },
+    {
+      "name": "SussyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_ore_block_recipe"
+    },
+    {
+      "name": "SussyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_block_ore_recipe"
+    },
+    {
+      "name": "SussyOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_ore_smelting"
+    },
+    {
+      "name": "SussyArmor",
+      "type": "armor",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SussyTab",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_tab"
+    },
+    {
+      "name": "SussyAdvancement",
+      "type": "achievement",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sussy_advancement"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "sussysound",
+      "files": [
+        "sussyarmorsound"
+      ],
+      "category": "player",
+      "subtitle": "sussysound"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.sussymod.sussy": "Sussy",
+      "item.abelsmod.sussy_armor_helmet": "Sussy Armor Helmet",
+      "item.abelsmod.sussy_armor_leggings": "Sussy Armor Leggings",
+      "item.abelsmod.sussy_armor_boots": "Sussy Armor Boots",
+      "advancements.sussy_advancement.title": "Sussy Advancement",
+      "subtitles.sussysound": "sussysound",
+      "block.abelsmod.sussy_block": "Block of Sussy",
+      "item.sussymod.sussy_armor_leggings": "Sussy Armor Leggings",
+      "item.abelsmod.sussy": "Sussy",
+      "block.sussymod.sussy_block": "Block of Sussy",
+      "block.abelsmod.sussy_ore": "Sussy Ore",
+      "item.abelsmod.sussy_armor_chestplate": "Sussy Armor Body",
+      "item.sussymod.sussy_armor_boots": "Sussy Armor Boots",
+      "advancements.sussy_advancement.descr": "Your are very sus",
+      "block.sussymod.sussy_ore": "Sussy Ore",
+      "item.sussymod.sussy_armor_chestplate": "Sussy Armor Body",
+      "itemGroup.sussymod.sussy_tab": "Sussy Tab",
+      "item.sussymod.sussy_armor_helmet": "Sussy Armor Helmet",
+      "itemGroup.abelsmod.sussy_tab": "Sussy Tab"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sussymod",
+    "modName": "Sussy Mod",
+    "version": "1.0.0",
+    "author": "abelv, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "sussytextureother",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.sussymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

@@ -1,0 +1,13 @@
+{
+  "group": "sussymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sussymod:sussy_block"
+    }
+  ],
+  "result": {
+    "item": "sussymod:sussy",
+    "count": 9
+  }
+}

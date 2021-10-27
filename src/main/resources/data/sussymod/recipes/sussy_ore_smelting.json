@@ -1,0 +1,10 @@
+{
+  "group": "sussymod",
+  "type": "minecraft:smelting",
+  "experience": 26.7,
+  "cookingtime": 1,
+  "ingredient": {
+    "item": "sussymod:sussy_ore"
+  },
+  "result": "sussymod:sussy"
+}

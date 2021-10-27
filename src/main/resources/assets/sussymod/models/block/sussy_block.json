@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sussymod:blocks/sussytextureblock",
+    "particle": "sussymod:blocks/sussytextureblock"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "sussysound": {
+    "category": "player",
+    "subtitle": "subtitles.sussysound",
+    "sounds": [
+      {
+        "name": "sussymod:sussyarmorsound",
+        "stream": false
+      }
+    ]
+  }
+}
