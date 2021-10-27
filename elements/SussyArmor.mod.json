@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "sussytextureitem",
+    "textureHelmet": "sussyarmortexture_head",
     "enableBody": true,
-    "textureBody": "sussytextureitem",
+    "textureBody": "sussyarmortexture_body",
     "enableLeggings": true,
-    "textureLeggings": "sussytextureitem",
+    "textureLeggings": "sussyarmortexture_leggings",
     "enableBoots": true,
-    "textureBoots": "sussytextureitem",
+    "textureBoots": "sussyarmortexture_boots",
     "creativeTab": {
       "value": "CUSTOM:SussyTab"
     },
